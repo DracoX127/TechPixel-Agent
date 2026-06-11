@@ -6,6 +6,11 @@ TechPixel Agent is a specialized, terminal-inspired integrated development envir
 
 The latest live version of TechPixel Agent can always be accessed directly at:
 **techpixel.base44.app**
+To access past updates, please use the following format:
+**techpixelv##.base44.app**
+For example:
+**techpixelv10.base44.app** = V1.0
+**techpixelv11.base44.app** = V1.1
 
 ### Accessing Older Releases
 For historical tracking, older deployments and legacy builds are organized into individual directories within this repository. Navigate to the corresponding version folders (such as `/V1.1` or `/V1.2`) to view specific release assets and documentation.
